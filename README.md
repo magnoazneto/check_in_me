@@ -1,16 +1,11 @@
 # check_in_me
 
-A new Flutter project.
+Application project to check-in events securely and instantly via QRcode. In addition to other social features.
 
-## Getting Started
+It will also have features to find registered events near you, interact with friends and receive any event certificates.
 
-This project is a starting point for a Flutter application.
+## Development
 
-A few resources to get you started if this is your first Flutter project:
+This project is a Flutter application under development. If you have any suggestions, critics, or comments, feel free to contact me: magnoazneto@gmail.com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
