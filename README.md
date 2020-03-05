@@ -1,4 +1,5 @@
 # check_in_me
+[WORK IN PROGRESS]
 
 Application project to check-in events securely and instantly via QRcode. In addition to other social features.
 
